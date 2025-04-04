@@ -1,11 +1,5 @@
-# Mod_Prectices
+# Mod_Practices
 
-##Expected roadmap
--Develop braille text converter
-   -Code hash map for braille functions
-   -Extract text from pdfs
-   -Export braille pdf
-   -Prepare functions for printer control
--Create printer prototype
-   -TODO: Get another engineer that has more experience in this area or take courses
--Connect text converter eith printer instructions
+Objetivo: desarrollar mis habilidades de programación a partir de la creación de mods para Minecraft.
+
+Estos pueden ser estéticos, mecánicos o absurdos.
